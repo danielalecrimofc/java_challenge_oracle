@@ -1,4 +1,6 @@
 # Java Oracle Foundations - Estudo de Caso
+![Logo Java e Oracle](https://pngteam.com/images/java-1-702x356_864a2103.png)
+
 **Repositório referente ao exercício desafio do curso _Java Oracle Foundations_.**
 ## Assuntos abordados no desafio Employee ↔ Department
 ### Definição de classes e atributos
