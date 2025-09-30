@@ -1,0 +1,41 @@
+# =========================
+# Arquivos do Eclipse
+# =========================
+.classpath
+.project
+.settings/
+
+# =========================
+# Compilação Java
+# =========================
+*.class
+*.jar
+*.war
+*.ear
+
+# =========================
+# Logs
+# =========================
+*.log
+
+# =========================
+# Diretórios de build
+# =========================
+bin/
+build/
+target/
+out/
+
+# =========================
+# Arquivos do sistema
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# Arquivos de IDEs (opcionais)
+# =========================
+.idea/
+*.iml
+.vscode/
+.metadata/
